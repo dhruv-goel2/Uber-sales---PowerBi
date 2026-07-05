@@ -81,3 +81,12 @@ Analyzed cancellation trends to improve operational efficiency.
 Compared vehicle categories based on bookings and revenue.
 Evaluated customer and driver ratings to measure service quality.
 Visualized booking and revenue trends for business decision-making.
+
+⭐ If you found this project helpful, consider giving it a star!
+🔗 Connect with Me
+
+LinkedIn:
+www.linkedin.com/in/dhruv-goel-dataanalyst
+
+GitHub:
+https://github.com/dhruv-goel2
